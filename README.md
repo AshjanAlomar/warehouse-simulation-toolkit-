@@ -22,7 +22,7 @@ ROS Melodic. ROS Installation and the ROS Package that you need is
 3-	Launch ROS:
 
 ```$ roslaunch warehouse_simulation warehouse_simulation.launch```
-now it’s launching the simulation so it’s waiting for the services and in order for us to see it we goanna open gazebo and this is it this is the simulation
+now it’s launching the simulation so it’s waiting for the services and in order for us to see it we gonna open gazebo and this is it this is the simulation
 
 ![image](https://user-images.githubusercontent.com/86170422/123527611-a9d58980-d6e9-11eb-9f78-e42db49d1333.png)
 
